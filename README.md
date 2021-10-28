@@ -1,5 +1,5 @@
 # B_Tree
-##### B 트리의 max degree (order)는 3, 5, 7을 기준으로 구현하였습니다. 
+##### B_트리의 max degree (order)는 3, 5, 7을 기준으로 구현하였습니다. 
 ##### 기본 max degree는 5입니다. (수정을 원하면 코드에서 7번째 줄에 있는 m 변수 값을 변경하면 됩니다.
 ##### ‘1’을 입력하여 insertion을 진행한 뒤 ‘2’를 입력해서 deletion을 진행해야 합니다.
 ## Insertion
