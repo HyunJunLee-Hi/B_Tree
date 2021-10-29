@@ -15,7 +15,7 @@
 ##### Insertion과 마찬가지로 확장자명 .csv를 제외한 파일명만 입력하여야 합니다. (‘delete’, ‘delete2’)
 ##### 파일명을 입력하면 deletion이 진행됩니다. 완료가 되면 완료 메시지와 함께 실행에 걸린 시간이 출력됩니다. 그 뒤 다시 처음 메뉴를 선택하는 화면이 나타납니다.
 ##### Delete 결과는 실행 파일이 있는 폴더 내부에 ‘New_파일명_result.csv’ 형태로 생성됩니다.
-## Delete Check
+## Deletion Check
 ##### 삭제가 잘 되었는지 확인하는 작업을 위해 삭제 결과 원본 csv 파일을 이름을 입력하게 됩니다. 
 ##### 이때 역시 확장자명 .csv를 제외한 파일명만 입력하여야 합니다. (‘delete_result’, ‘delete_result2’)
 ##### 초기에 주어졌던 delete_result.csv, delete_result2.csv 파일과 프로그램 결과 파일인 New_delete_result.csv, New_delete_result2.csv 파일과 비교하여 일치하지 않는 데이터의 개수를 출력합니다.
